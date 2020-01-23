@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Date\bin\Debug\Date.exe.config
+C:\Users\DELL\source\repos\Date\bin\Debug\Date.exe
+C:\Users\DELL\source\repos\Date\bin\Debug\Date.pdb
+C:\Users\DELL\source\repos\Date\obj\Debug\Date.exe
+C:\Users\DELL\source\repos\Date\obj\Debug\Date.pdb
+C:\Users\DELL\source\repos\Date\obj\Debug\Date.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\devika\C#\HandsOn\conversion\obj\Debug\conversion.csprojAssemblyReference.cache
+E:\devika\C#\HandsOn\conversion\bin\Debug\conversion.exe.config
+E:\devika\C#\HandsOn\conversion\bin\Debug\conversion.exe
+E:\devika\C#\HandsOn\conversion\bin\Debug\conversion.pdb
+E:\devika\C#\HandsOn\conversion\obj\Debug\conversion.exe
+E:\devika\C#\HandsOn\conversion\obj\Debug\conversion.pdb

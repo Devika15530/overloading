@@ -1,0 +1,6 @@
+E:\devika\C#\HandsOn\Deligateh\bin\Debug\Deligateh.exe.config
+E:\devika\C#\HandsOn\Deligateh\bin\Debug\Deligateh.exe
+E:\devika\C#\HandsOn\Deligateh\bin\Debug\Deligateh.pdb
+E:\devika\C#\HandsOn\Deligateh\obj\Debug\Deligateh.csprojAssemblyReference.cache
+E:\devika\C#\HandsOn\Deligateh\obj\Debug\Deligateh.exe
+E:\devika\C#\HandsOn\Deligateh\obj\Debug\Deligateh.pdb

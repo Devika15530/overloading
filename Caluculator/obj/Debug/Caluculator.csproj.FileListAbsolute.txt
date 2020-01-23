@@ -1,0 +1,6 @@
+E:\devika\C#\HandsOn\Caluculator\obj\Debug\Caluculator.csprojAssemblyReference.cache
+E:\devika\C#\HandsOn\Caluculator\bin\Debug\Caluculator.exe.config
+E:\devika\C#\HandsOn\Caluculator\bin\Debug\Caluculator.exe
+E:\devika\C#\HandsOn\Caluculator\bin\Debug\Caluculator.pdb
+E:\devika\C#\HandsOn\Caluculator\obj\Debug\Caluculator.exe
+E:\devika\C#\HandsOn\Caluculator\obj\Debug\Caluculator.pdb
